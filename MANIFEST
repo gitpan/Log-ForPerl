@@ -1,0 +1,9 @@
+MANIFEST
+CHANGELOG
+README
+TODO
+VERSION
+Makefile.PL
+lib/Log/ForPerl.pm
+t/forperl01.t
+META.yml                                 Module meta-data (added by MakeMaker)
